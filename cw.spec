@@ -7,6 +7,7 @@ License:        GPL
 Group:          Development/Other
 URL:            http://cwrapper.sourceforge.net/
 Source0:        http://cwrapper.sourceforge.net/cw-%{version}.tar.bz2
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 cw is a non-intrusive real-time ANSI color wrapper for common Unix-based 
