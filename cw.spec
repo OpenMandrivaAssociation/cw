@@ -1,6 +1,6 @@
 Name:           cw
 Version:        1.0.15
-Release:        %mkrel 3
+Release:        %mkrel 4
 Epoch:          0
 Summary:        Non-intrusive real-time ANSI color wrapper for common Unix-based commands
 License:        GPL
