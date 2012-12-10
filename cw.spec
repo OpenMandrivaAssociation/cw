@@ -44,3 +44,49 @@ definition coloring, and includes over 50 pre-made definition files.
 %{_bindir}/*
 %{_datadir}/%{name}
 %{_mandir}/man1/*
+
+
+%changelog
+* Fri Jul 06 2012 Johnny A. Solbu <solbu@mandriva.org> 0:1.0.16-2
++ Revision: 808275
+- Spec cleanup
+- Remove useless documentation
+- Fix license
+
+* Tue Mar 15 2011 Stéphane Téletchéa <steletch@mandriva.org> 0:1.0.16-1
++ Revision: 645100
+- update to new version 1.0.16
+
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0:1.0.15-5mdv2011.0
++ Revision: 617487
+- the mass rebuild of 2010.0 packages
+
+* Wed Sep 02 2009 Thierry Vignaud <tv@mandriva.org> 0:1.0.15-4mdv2010.0
++ Revision: 426010
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 0:1.0.15-3mdv2009.0
++ Revision: 243841
+- rebuild
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <blino@mandriva.org>
+    - restore BuildRoot
+
+* Thu Oct 11 2007 David Walluck <walluck@mandriva.org> 0:1.0.15-1mdv2008.1
++ Revision: 97052
+- add sources
+- 1.0.15
+- replace build patch with work in %%install
+- fix cwe symlink
+
+
+* Sat Nov 04 2006 David Walluck <walluck@mandriva.org> 1.0.14-3mdv2007.0
++ Revision: 76460
+- update build patch
+- birthday rebuild
+- Import cw
+
+* Tue Sep 27 2005 David Walluck <walluck@mandriva.org> 0:1.0.14-1mdk
+- release
+
