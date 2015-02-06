@@ -1,6 +1,6 @@
 Name:           cw
 Version:        1.0.16
-Release:        2
+Release:        3
 Epoch:          0
 Summary:        Non-intrusive real-time ANSI color wrapper for common Unix-based commands
 License:        GPLv2+
