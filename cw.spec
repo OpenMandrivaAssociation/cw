@@ -5,7 +5,7 @@ Epoch:          0
 Summary:        Non-intrusive real-time ANSI color wrapper for common Unix-based commands
 License:        GPLv2+
 Group:          Development/Other
-URL:            http://cwrapper.sourceforge.net/
+URL:            https://cwrapper.sourceforge.net/
 Source0:        http://cwrapper.sourceforge.net/cw-%{version}.tar.bz2
 
 %description
