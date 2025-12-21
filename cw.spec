@@ -8,6 +8,7 @@ Group:          Development/Other
 URL:            https://cwrapper.sourceforge.net/
 Source0:        http://cwrapper.sourceforge.net/cw-%{version}.tar.bz2
 
+BuildRequires:	make
 %description
 cw is a non-intrusive real-time ANSI color wrapper for common Unix-based 
 commands on GNU/Linux. cw is designed to simulate the environment of the 
